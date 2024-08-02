@@ -1,4 +1,4 @@
-# Python Calculator
+# Python Calculator (Mini Project)
 
 ![calc](https://github.com/user-attachments/assets/28df390e-f6f5-482a-a54e-0b0dbb36e8da)
 
